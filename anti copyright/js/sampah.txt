@@ -1,0 +1,5 @@
+var enemy_score = 0;
+var player_score = 0;
+
+
+document.getElementsById("splayer").innerHTML = 'You : ' + player_score;
